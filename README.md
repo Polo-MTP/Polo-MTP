@@ -23,9 +23,17 @@
 
 
 <p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=Polo-MTP&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Polo-MTP&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&cache_seconds=60" height="160"  alt="GitHub Stats"/>
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Polo-MTP&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
+
+
+
+
+
+
+
+
 
 <br>
   
