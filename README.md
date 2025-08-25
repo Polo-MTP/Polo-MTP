@@ -15,7 +15,10 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,postgres,mongo,docker,aws,linux&perline=10"  />
+<img width="500px" 
+  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,postgres,mongo,docker,aws,linux,csharp,angular,android,laravel,mysql,adonis&perline=10" 
+/>
+
 </p>
 <br />
 
