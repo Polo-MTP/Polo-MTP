@@ -16,7 +16,7 @@
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,postgres,mongo,docker,aws,linux,angular,laravel,mysql,adonis" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,postgres,mongo,docker,aws,linux,angular,laravel,mysql" />
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 </p>
