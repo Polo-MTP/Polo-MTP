@@ -18,11 +18,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="190" alt="Hollow Knight" />
 
-Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand" />, a software developer with experience building web applications, plus some exposure to mobile development and hardware monitoring systems. I like connecting server logic with relational and NoSQL databases, deploying on Linux, and adapting new technologies to build efficient solutions.
+Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand" />, a developer who enjoys the whole path of a web app: from the database, to the server, to deploying it on Linux. Lately that means a lot of Laravel, Next.js and Angular.
 
-- 🎓 IT Engineering, Software Development (Multiplatform), at **Universidad Tecnológica de Torreón** (since Sep 2023)
+- 🎓 Studying Software Development at **Universidad Tecnológica de Torreón**
 - 🌎 Living in **Mexico**
-- 💼 Working with **Laravel**, **Next.js**, **Angular**, **PostgreSQL** and **Docker**
+- 📱 Curious about mobile (Kotlin) and hardware monitoring systems
 - 🎬 Into coding, sleeping, and watching films
 
 <br clear="right" />
@@ -37,21 +37,12 @@ Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFz
 
 <br />
 
-<h2 align="center">Experience</h2>
+<h2 align="center">What I've been building</h2>
 
-**Full Stack Developer (Assistant) at COCONSA** · Jun 2026 – Oct 2026
-- Helped develop and maintain an ERP system built with **Next.js**, working on tasks assigned in weekly planning meetings with the team lead.
-- Wrote SQL statements to insert and update records in **PostgreSQL** for requests from different areas of the ERP.
-
-**Full Stack Developer at IESIZ** · Aug 2025 – May 2026
-- Built the **SINE** system from scratch: Classroom module (assignments, exams, files), grades, calendar, and management CRUDs (subjects, groups, school cycles, campuses).
-- Set up the server (**Nginx, PHP, Docker**) and a **multi-tenant** architecture that separates database and domain per campus.
-- Maintained and supported the **SIIA** system (Laravel) and remote database connections on IONOS servers.
-- Made fixes and small adjustments to the institutional landing page (Angular).
-
-**Ozez E-commerce** · Sep 2024 – Jan 2025
-- School project with a real client and problem, built by a team of 4 with **Laravel**.
-- E-commerce with catalog, orders, and an admin panel with reports and inventory control.
+- 🏫 **SINE**: a school platform I built from scratch, with classroom, grades, calendar and one database per campus.
+- 🧾 **An ERP** in Next.js and PostgreSQL, where I worked on features and database requests from different areas.
+- 🛒 **Ozez**: an e-commerce built with my team for a real client, with orders, inventory and reports.
+- 🖥️ **Servers and deployments** with Nginx, Docker and Linux.
 
 <br />
 
