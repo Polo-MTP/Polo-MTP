@@ -20,10 +20,11 @@
 
 Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand" />, a developer who enjoys the whole path of a web app: from the database, to the server, to deploying it on Linux. Lately that means a lot of Laravel, Next.js and Angular.
 
-- 🎓 Studying Software Development at **Universidad Tecnológica de Torreón**
-- 🌎 Living in **Mexico**
-- 📱 Curious about mobile (Kotlin) and hardware monitoring systems
-- 🎬 Into coding, sleeping, and watching films
+- Studying Software Development (Multiplatform IT Engineering) at **Universidad Tecnológica de Torreón**, since 2023.
+- Based in **Mexico**.
+- Day to day I work with **Laravel**, **Next.js** and **Angular**, with **PostgreSQL** and **MySQL** for data.
+- Curious about mobile development with **Kotlin** and about monitoring systems built with hardware.
+- Outside of code: sleeping and watching films.
 
 <br clear="right" />
 
@@ -39,10 +40,10 @@ Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFz
 
 <h2 align="center">What I've been building</h2>
 
-- 🏫 **SINE**: a school platform I built from scratch, with classroom, grades, calendar and one database per campus.
-- 🧾 **An ERP** in Next.js and PostgreSQL, where I worked on features and database requests from different areas.
-- 🛒 **Ozez**: an e-commerce built with my team for a real client, with orders, inventory and reports.
-- 🖥️ **Servers and deployments** with Nginx, Docker and Linux.
+- **SINE**: a school management platform I built from scratch. It has a classroom module (assignments, exams and files), grades, a calendar and the admin side (subjects, groups, school cycles and campuses). Each campus gets its own database and domain.
+- **ERP with Next.js and PostgreSQL**: I worked on new features and on the SQL behind requests coming from different areas of the system.
+- **Ozez**: an e-commerce built in Laravel by a team of four for a real client, with catalog, orders, inventory control and an admin panel with reports.
+- **Servers and deployments**: Nginx, PHP and Docker setups on Linux, and remote connections to databases on hosted servers.
 
 <br />
 
