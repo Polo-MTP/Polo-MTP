@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Polo-MTP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Full+Stack+Developer;Software+Development+student;Coding%2C+sleeping+and+watching+films" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Full+Stack+Developer;Software+Development+student;Coding%2C+sleeping+and+watching+films;always+learning+something+new" alt="Typing animation" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <br />
 
-<h2 align="center">About me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff7eb6&height=44&section=header&text=About&fontSize=24&fontColor=0b1a3a&fontAlignY=55" width="100%" alt="About Me" />
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="190" alt="Hollow Knight" />
 
@@ -31,9 +31,14 @@ Hi, I'm **Misael Trejo Pérez** <img src="https://media.giphy.com/media/hvRJCLFz
 <h2 align="center">Tech stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,kotlin,html,css,tailwind,bootstrap,react,nextjs,angular,vue,astro,laravel,express,nodejs,mysql,postgres,mongo,docker,nginx,linux,git,github&theme=dark&perline=8" alt="JavaScript, TypeScript, PHP, Kotlin, HTML, CSS, Tailwind, Bootstrap, React, Next.js, Angular, Vue, Astro, Laravel, Express, Node.js, MySQL, PostgreSQL, MongoDB, Docker, Nginx, Linux, Git, GitHub" />
-  <br />
-  <sub>Also working with AdonisJS</sub>
+  <sub>Languages</sub><br />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,kotlin,html,css&theme=dark" alt="JavaScript, TypeScript, PHP, Kotlin, HTML, CSS" /><br /><br />
+  <sub>Frontend</sub><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,astro,tailwind,bootstrap&theme=dark" alt="React, Next.js, Angular, Vue, Astro, Tailwind, Bootstrap" /><br /><br />
+  <sub>Backend</sub><br />
+  <img src="https://skillicons.dev/icons?i=laravel,express,nodejs&theme=dark" alt="Laravel, Express, Node.js" /><br /><br />
+  <sub>Data and tools</sub><br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,docker,nginx,linux,git&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Docker, Nginx, Linux, Git" />
 </p>
 
 <br />
