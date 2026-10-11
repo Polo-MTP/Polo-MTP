@@ -76,6 +76,9 @@ Contact buttons: remove this comment and put your own links.
 </p>
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b1a3a&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=9bb8e8&animation=twinkling" width="100%" alt="Thanks for stopping by" />
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Polo-MTP&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views" />
 </p>
