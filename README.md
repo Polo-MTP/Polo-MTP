@@ -1,38 +1,57 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Misael Trejo Pérez, Software Engineering student" width="100%" />
-</p>
+Asi lo tengo actualmente:  <h1 align="center">Hi , I'm Misael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Hi, I'm Misael 👋</h3>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-<p align="center">
-  I build things with code, and I'm learning to build them better.<br />
-  Based in Torreón, México.
-</p>
+- :credit_card: My full name is **Misael Trejo Perez** <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align='right'/>
+- :school: I'm currently student at **Universidad Tecnologica de Torreon**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Mexico**
+- :sweat_smile: I'm a intermediate in coding :penguin:
+- :monocle_face: I'm interested in coding, sleeping, and watching film
 
-<br />
-
-## About me
-
-- 🎓 Student of **Software Engineering** at **Universidad Tecnológica de Torreón**
-- 🌎 Living in **Mexico**
-- 🐧 Intermediate level in coding, and improving every week
-- 🎬 Interested in coding, sleeping, and watching films
 
 <br />
 
-## Languages and tools
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,postgres,mongo,docker,aws,linux,angular,laravel,mysql" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+</p>
+
+
+</p>
+<br />
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,angular,laravel&perline=8" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=cs,mysql,postgres,mongo,docker,aws,linux,androidstudio&perline=8" alt="Databases and tools" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Polo-MTP&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
+
+
+
+
+
+
+
+
+
+<br>
+  
+<!--
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+/>-->
+
+
 
 <br />
 
-## GitHub stats
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=Polo-MTP&background=12162A&border=2A3052&ring=F2B84B&fire=F2B84B&currStreakNum=F3EFE6&currStreakLabel=F2B84B&sideNums=F3EFE6&sideLabels=B9BCD0&dates=B9BCD0" alt="GitHub streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polo-MTP&layout=compact&bg_color=12162A&border_color=2A3052&title_color=F2B84B&text_color=F3EFE6" alt="Top languages" />
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+ podrias mejorarlo
