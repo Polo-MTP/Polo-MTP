@@ -14,7 +14,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff7eb6&height=44&section=header&text=About&fontSize=24&fontColor=0b1a3a&fontAlignY=55" width="100%" alt="About Me" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c0caf5&height=44&section=header&text=About&fontSize=24&fontColor=0b1a3a&fontAlignY=55" width="100%" alt="About Me" />
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="190" alt="Hollow Knight" />
 
