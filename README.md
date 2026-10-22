@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Polo-MTP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=40&lines=Full+Stack+Developer;Software+Development+student;Coding%2C+sleeping+and+watching+films;always+learning+something+new" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=c0caf5&center=true&vCenter=true&width=560&height=40&lines=Full+Stack+Developer;Software+Development+student;Coding%2C+sleeping+and+watching+films;always+learning+something+new" alt="Typing animation" />
   </a>
 </p>
 
